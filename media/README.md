@@ -1,3 +1,3 @@
 # Project media
 
-The wiring diagram and three demonstration videos for the connected weather station are stored in this folder.
+This folder contains the wiring diagram and the full project demonstration video for the connected weather station.
