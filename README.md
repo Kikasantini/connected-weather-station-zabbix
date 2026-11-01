@@ -14,7 +14,7 @@ An academic Internet of Things project built for the Connected Objects Programmi
 
 - `firmware/arduino-weather-server/` — Arduino/C++ firmware and a safe Wi-Fi configuration template.
 - `firmware/micropython-display/` — MicroPython client code. The `SSD1306.py` driver must also be installed on the MicroPython board.
-- `media/` — wiring diagram and three project demonstration videos.
+- `media/` — wiring diagram and the full project demonstration video.
 
 ## Hardware
 
@@ -43,8 +43,6 @@ Install the libraries used by the Arduino sketch through the Arduino IDE Library
 ## Demonstration videos
 
 - [Full project demonstration](media/full-project-demo.mp4)
-- [Arduino/C++ server demonstration](media/arduino-server-demo.mp4)
-- [MicroPython display demonstration](media/micropython-display-demo.mp4)
 
 ## Security note
 
