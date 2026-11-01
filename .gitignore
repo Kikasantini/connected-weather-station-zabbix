@@ -1,0 +1,12 @@
+# Local Wi-Fi credentials
+firmware/arduino-weather-server/MyWifi.h
+
+# MicroPython files copied to a device
+*.mpy
+
+# Build and editor files
+.arduino/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
